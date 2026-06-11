@@ -1,5 +1,4 @@
-<!-- HERO BANNER -->
-
+### AKSHAYA H
 
 <!-- TYPING HEADER -->
 <div align="center">
