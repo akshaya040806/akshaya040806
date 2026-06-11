@@ -138,7 +138,7 @@ class Akshaya:
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech CSE (Cybersecurity) | Vellore Institute of Technology, Chennai | 2024 – 2028 | CGPA 8.85 |
+| B.Tech CSE (Cybersecurity) | Vellore Institute of Technology, Chennai | 2024 – 2028 | CGPA 8.89 |
 
 </div>
 
