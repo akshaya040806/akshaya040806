@@ -1,4 +1,4 @@
-### AKSHAYA H
+<h1 align="center">Akshaya H</h1>
 
 <!-- TYPING HEADER -->
 <div align="center">
